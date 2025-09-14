@@ -1,0 +1,10 @@
+body {
+  display: table;
+  position: absolute;
+}
+
+p {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
